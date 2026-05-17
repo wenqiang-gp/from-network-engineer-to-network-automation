@@ -1,7 +1,7 @@
 # Using Netmiko to Push Interface IP Configuration
 
 ## Lab Topology
-![Operate and observe the arrival log through Eve's simulation console interface Topology](topology/Operate and observe the arrival log through Eve's simulation console interface.png)
+![ Lab Topology](topology/ lab1.png)
 
 ## Device Information
 - Cisco IOS
@@ -34,4 +34,4 @@ with ConnectHandler(**device) as conn:
     print(output)
 
 ## Result
-![Successfully configured the simulated router of EVE using Python in Ubuntu Topology](topology/Successfully configured the simulated router of EVE using Python in Ubuntu.png)
+![Successfully configured the simulated router of EVE using Python in Ubuntu Topology](topology/effect_picture.png)
