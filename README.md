@@ -71,3 +71,17 @@ Network Engineer transitioning into Automation.
 Learning every day.
 Building in public.
 
+
+## 🧪 Lab Topology
+lab
+
+![lab](topology/lab1.png)
+
+
+## ✅Effect Picture
+effect_picture
+
+![effect_picture](topology/effect_picture.png)
+
+
+
