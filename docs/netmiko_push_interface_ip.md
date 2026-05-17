@@ -1,7 +1,7 @@
 # Using Netmiko to Push Interface IP Configuration
 
 ## Lab Topology
-![Lab Topology](topology/lab1.png)
+![Lab1 Topology](../topology/lab1.png)
 
 ## Device Information
 - Cisco IOS
@@ -34,4 +34,4 @@ with ConnectHandler(**device) as conn:
     print(output)
 
 ## Result
-![effect_picture Topology](..topology/effect_picture.png)
+![effect_picture Topology](../topology/effect_picture.png)
